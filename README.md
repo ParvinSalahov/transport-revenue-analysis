@@ -8,7 +8,7 @@ The dataset was obtained from the official Open Data Portal of Azerbaijan (Digit
 Dataset: "Nəqliyyat sektorunda sərnişin daşınmasından əldə olunan gəlir, min manat"
 
 Source:
-https://data.gov.az
+[https://data.gov.az](https://opendata.az/@dsk/revenue-from-passenger-transportation-in-the-transportation-sector/r/d51060b9-27cf-4dab-b2b2-4397b33371af)
 
 Publisher: State Statistical Committee of the Republic of Azerbaijan
 
